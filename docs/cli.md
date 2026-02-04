@@ -1,4 +1,4 @@
----
+ssh -R 80:localhost:8080 localhost.run---
 id: cli
 title: Command Line Interface
 sidebar_label: Command Line Interface
